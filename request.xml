@@ -1,0 +1,9 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+				  xmlns:gs="http://soap.com/service">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <gs:getCountryRequest>
+         <gs:name>Colombia</gs:name>
+      </gs:getCountryRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
