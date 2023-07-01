@@ -28,3 +28,5 @@ The options for the requests, get, delete, update
 An example demonstrating the getAll request
 ![Screenshot](images/1.jpg)
 
+## How to run
+Install STS, run using maven or inside vscode
